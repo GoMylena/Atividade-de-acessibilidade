@@ -1,0 +1,108 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+}
+.navbar img{
+  margin-right: 800px;
+}
+.navigation {
+	width: 100%;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    background-color: #87CEFA;
+    padding: 20px 20px;
+}
+.navigation ul{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ width: 75%;
+
+}
+
+body{background-color: #87CEFA;
+}
+
+h1{
+  font-family:algerian;
+   font-size: 35px;
+   color: black;
+}
+
+h2{
+  font-family: algerian;
+   font-size: 38px;
+   color: #0000CD;
+}
+
+.p1{
+  font-family: arial;
+	font-size: 25px;
+    color: black;
+}
+
+.p2{
+  font-family: arial;
+	font-size: 25px;
+  color: black;
+}
+
+
+ul{
+   font-family:algerian;
+   font-size: 30PX;
+   font-weight: bold;
+   color: black;
+}
+
+.p3{
+  font-family: arial; 
+	font-size: 25px;
+  color:black;
+}
+
+.p4{
+  font-family: arial;
+	font-size: 25px;
+  color: black;
+}
+
+.p5{ 
+  font-family: arial; 
+	font-size: 25px;
+  color: black;
+ }
+ .p6{
+   font-family: arial;
+ 	 font-size: 25px;
+   color: black;
+ }
+
+ .p7{
+    font-family: arial;
+ 	  font-size: 25px;
+    color: black;
+ }
+
+.p8{ font-family: arial;
+     font-size: 25px;
+     color: black;
+
+}
+ #menu{ 
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    border-bottom: 3px solid #EDEDED;
+ }
+ 
+ }
+ a{
+ 	text-decoration: none;
+ }
+ li{
+ 	list-style: none;

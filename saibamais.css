@@ -1,0 +1,31 @@
+body {
+	background-color:#E0FFFF; 
+	border-radius: 150px;
+}
+h1{
+	background-color: #F5FFFA;
+	border-radius: 210px;
+}	
+
+.p1{
+	font-family: arial;
+ 	font-size: 25px;
+    color: black;
+}
+ul{font-family:algerian;
+   font-size: 30PX;
+   font-weight: bold;
+   color: black;
+}
+.p2{
+	font-family: arial;
+ 	 font-size: 25px;
+    color: black;
+}
+
+.p3{
+	font-family: arial;
+ 	 font-size: 25px;
+    color: black;
+}
+
